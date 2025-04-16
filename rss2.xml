@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chuangyuan</title>
-    <link>https://L-melo-3dg.github.io/</link>
+    <link>http://yoursite.com/</link>
     
-    <atom:link href="https://l-melo-3dg.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://yoursite.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>The floating clouds disperse, sitting in wait for nightfall.</description>
     <pubDate>Wed, 16 Apr 2025 06:56:57 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://l-melo-3dg.github.io/2025/04/16/hello-world/</link>
-      <guid>https://l-melo-3dg.github.io/2025/04/16/hello-world/</guid>
+      <link>http://yoursite.com/2025/04/16/hello-world/</link>
+      <guid>http://yoursite.com/2025/04/16/hello-world/</guid>
       <pubDate>Wed, 16 Apr 2025 06:56:57 GMT</pubDate>
       
         
@@ -30,7 +30,7 @@
       
       
       
-      <comments>https://l-melo-3dg.github.io/2025/04/16/hello-world/#disqus_thread</comments>
+      <comments>http://yoursite.com/2025/04/16/hello-world/#disqus_thread</comments>
       
     </item>
     
